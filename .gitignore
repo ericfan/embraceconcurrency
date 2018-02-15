@@ -1,1 +1,6 @@
 /.project
+/.idea/
+/.gradle/
+/embraceconcurrency.iml
+/gradle/
+/out/
